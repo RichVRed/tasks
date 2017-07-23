@@ -394,6 +394,7 @@
   border-style: solid;
   border-width: 1px;
   border-color: #CCCCCC;
+  overflow: hidden;
 }
 #content li.task-item .task-body:hover,
 #content li.task-item .task-body.active,
@@ -415,7 +416,7 @@
 #content div.task-item .task-body .icon_svg.svg-star-large {
   float: right;
   margin: 0 8px 0 5px;
-  height: 34px;
+  height: 40px;
   width: 20px;
 }
 #content li.task-item .task-body .icon.addsubtask,
