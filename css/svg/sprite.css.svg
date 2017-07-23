@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><svg version="1.1" id="alphabetically" x="20" y="40" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<rect fill="none" width="20" height="20"/>
+<g enable-background="new    ">
+	<path fill="#909090" d="M10.729,15.101H8.38l-0.934-2.429H3.173L2.29,15.101H0L4.165,4.408h2.283L10.729,15.101z M6.754,10.87
+		L5.281,6.902L3.836,10.87H6.754z"/>
+	<path fill="#909090" d="M10.948,15.101v-1.947l5.616-6.937h-4.982V4.408h7.826v1.678l-5.856,7.213h6.083v1.802H10.948z"/>
+</g>
+</svg><svg version="1.1" id="checkbox" x="40" y="60" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<g>
+	<linearGradient id="bSVGID_1_" gradientUnits="userSpaceOnUse" x1="10.0005" y1="16.9727" x2="10.0005" y2="3.0278">
+		<stop offset="0" style="stop-color:#B0B0B0;stop-opacity:0.5"/>
+		<stop offset="0.3982" style="stop-color:#D5D4D4;stop-opacity:0.3009"/>
+		<stop offset="0.7873" style="stop-color:#F4F3F4;stop-opacity:0.1063"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path fill="url(#bSVGID_1_)" d="M3.027,15.973c0,0.553,0.448,1,1,1h11.945c0.553,0,1-0.447,1-1V4.027c0-0.552-0.447-1-1-1H4.027
+		c-0.552,0-1,0.448-1,1V15.973z"/>
+	<path fill="none" stroke="#B0B0B0" stroke-width="0.75" stroke-miterlimit="10" d="M3.027,15.973c0,0.553,0.448,1,1,1h11.945
+		c0.553,0,1-0.447,1-1V4.027c0-0.552-0.447-1-1-1H4.027c-0.552,0-1,0.448-1,1V15.973z"/>
+</g>
+</svg><svg version="1.1" id="divider" x="59.84" y="80" width="3" height="2" viewBox="0 0 3 2" enable-background="new 0 0 3 2" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.008" fill="#B0B0B0" width="1" height="1"/>
+</svg><svg version="1.1" id="eye-hidden" x="80" y="20" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<path fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" d="M17.891,10.875c0,1.188-3.533,5.078-7.891,5.078
+	c-4.358,0-7.891-3.891-7.891-5.078S5.642,5.797,10,5.797C14.357,5.797,17.891,9.688,17.891,10.875z M14.224,10.875
+	c0-2.333-1.891-4.224-4.223-4.224s-4.223,1.891-4.223,4.224c0,2.332,1.891,4.224,4.223,4.224S14.224,13.207,14.224,10.875z"/>
+<circle fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" cx="10" cy="10.875" r="1.531"/>
+<path fill="#727272" stroke="#727272" stroke-miterlimit="10" d="M17.891,10c0,1.188-3.533,5.078-7.891,5.078
+	c-4.358,0-7.891-3.891-7.891-5.078S5.642,4.922,10,4.922C14.357,4.922,17.891,8.813,17.891,10z M14.224,10
+	c0-2.333-1.891-4.224-4.223-4.224S5.777,7.667,5.777,10c0,2.332,1.891,4.224,4.223,4.224S14.224,12.332,14.224,10z"/>
+<circle fill="#727272" stroke="#727272" stroke-miterlimit="10" cx="10" cy="10" r="1.531"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-miterlimit="10" x1="2.254" y1="16.828" x2="18.035" y2="5.797"/>
+<line fill="none" stroke="#727272" stroke-width="1.5" stroke-miterlimit="10" x1="2.109" y1="15.953" x2="17.891" y2="4.922"/>
+<rect fill="none" width="20" height="20"/>
+</svg><svg version="1.1" id="eye-visible" x="80" y="40" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<path fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" d="M17.891,10.875c0,1.188-3.533,5.078-7.891,5.078
+	c-4.358,0-7.891-3.891-7.891-5.078S5.642,5.797,10,5.797C14.357,5.797,17.891,9.688,17.891,10.875z M14.224,10.875
+	c0-2.333-1.891-4.224-4.223-4.224s-4.223,1.891-4.223,4.224c0,2.332,1.891,4.224,4.223,4.224S14.224,13.207,14.224,10.875z"/>
+<circle fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" cx="10" cy="10.875" r="1.531"/>
+<path fill="#727272" stroke="#727272" stroke-miterlimit="10" d="M17.891,10c0,1.188-3.533,5.078-7.891,5.078
+	c-4.358,0-7.891-3.891-7.891-5.078S5.642,4.922,10,4.922C14.357,4.922,17.891,8.813,17.891,10z M14.224,10
+	c0-2.333-1.891-4.224-4.223-4.224S5.777,7.667,5.777,10c0,2.332,1.891,4.224,4.223,4.224S14.224,12.332,14.224,10z"/>
+<circle fill="#727272" stroke="#727272" stroke-miterlimit="10" cx="10" cy="10" r="1.531"/>
+<rect fill="none" width="20" height="20"/>
+</svg><svg version="1.1" id="manual" x="80" y="60" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<rect x="5.527" y="1.559" fill="none" stroke="#909090" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="12.756" height="12.755"/>
+<g>
+	<g>
+		<polyline fill="none" stroke="#909090" stroke-width="2" stroke-linejoin="round" points="4.025,5.528 1.559,5.528 1.559,8.028 		
+			"/>
+		
+			<line fill="none" stroke="#909090" stroke-width="2" stroke-linejoin="round" stroke-dasharray="2.5851,2.5851" x1="1.559" y1="10.613" x2="1.559" y2="14.49"/>
+		<polyline fill="none" stroke="#909090" stroke-width="2" stroke-linejoin="round" points="1.559,15.783 1.559,18.283 
+			4.059,18.283 		"/>
+		
+			<line fill="none" stroke="#909090" stroke-width="2" stroke-linejoin="round" stroke-dasharray="2.5851,2.5851" x1="6.644" y1="18.283" x2="10.521" y2="18.283"/>
+		<polyline fill="none" stroke="#909090" stroke-width="2" stroke-linejoin="round" points="11.814,18.283 14.314,18.283 
+			14.314,15.732 		"/>
+	</g>
+</g>
+</svg><svg version="1.1" id="plus" x="40" y="40" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<rect x="9.266" y="5.392" fill="#FFFFFF" width="1.8" height="11"/>
+<rect x="4.666" y="9.992" fill="#FFFFFF" width="11" height="1.8"/>
+<rect x="9.266" y="4.492" fill="#737272" width="1.8" height="11"/>
+<rect x="4.666" y="9.092" fill="#737272" width="11" height="1.8"/>
+</svg><svg version="1.1" id="sort-default" x="60" y="40" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<rect x="3.633" y="5.957" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.633" y="9.999" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.65" y="14.04" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.642" y="5.145" fill="#B0B0B0" stroke="#B0B0B0" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.642" y="9.187" fill="#B0B0B0" stroke="#B0B0B0" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.659" y="13.229" fill="#B0B0B0" stroke="#B0B0B0" stroke-miterlimit="10" width="12.701" height="1.625"/>
+</svg><svg version="1.1" id="star" x="20" y="60" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" points="9.998,4.64 6.385,15.769 15.85,8.889 4.149,8.889 
+	13.615,15.766 "/>
+<polygon fill="#B0B0B0" stroke="#B0B0B0" stroke-miterlimit="10" points="9.999,3.807 6.386,14.934 15.85,8.056 4.149,8.056 
+	13.615,14.933 "/>
+</svg><svg version="1.1" id="star-active" x="40" y="80" width="19.84" height="19.84" viewBox="0 0 19.84 19.84" enable-background="new 0 0 19.84 19.84" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<polygon fill="#B0B0B0" stroke="#B0B0B0" stroke-miterlimit="10" points="9.919,3.509 5.756,16.331 16.662,8.405 3.179,8.405 
+	14.086,16.328 "/>
+<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" points="9.92,2.833 5.757,15.655 16.662,7.729 3.179,7.729 
+	14.086,15.652 "/>
+</svg><svg version="1.1" id="star-large-high" width="20" height="40" viewBox="0 0 20 40" enable-background="new 0 0 20 40" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<g>
+	<defs>
+		<rect id="kSVGID_1_" width="20" height="40"/>
+	</defs>
+	<clipPath id="kSVGID_2_">
+		<use xlink:href="#kSVGID_1_" overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#kSVGID_2_)">
+		<defs>
+			<rect id="kSVGID_3_" width="20" height="40"/>
+		</defs>
+		<clipPath id="kSVGID_4_">
+			<use xlink:href="#kSVGID_3_" overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#kSVGID_4_)">
+			<defs>
+				<rect id="kSVGID_5_" width="20" height="40"/>
+			</defs>
+			<clipPath id="kSVGID_6_">
+				<use xlink:href="#kSVGID_5_" overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#kSVGID_6_)">
+				<defs>
+					<rect id="kSVGID_7_" width="20" height="40"/>
+				</defs>
+				<clipPath id="kSVGID_8_">
+					<use xlink:href="#kSVGID_7_" overflow="visible"/>
+				</clipPath>
+				<defs>
+					<filter id="kAdobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="1.333" y="9.333" width="17.333" height="17.333">
+						<feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="1.333" y="9.333" width="17.333" height="17.333" id="kSVGID_9_">
+					<g filter="url(#kAdobe_OpacityMaskFilter)">
+						<rect x="1.333" y="9.333" opacity="0.5" clip-path="url(#kSVGID_8_)" fill="#010202" width="17.333" height="17.333"/>
+					</g>
+				</mask>
+				<g clip-path="url(#kSVGID_8_)" mask="url(#kSVGID_9_)" enable-background="new    ">
+					<g>
+						<defs>
+							<rect id="kSVGID_10_" x="1.333" y="9.333" width="17.333" height="17.333"/>
+						</defs>
+						<clipPath id="kSVGID_11_">
+							<use xlink:href="#kSVGID_10_" overflow="visible"/>
+						</clipPath>
+						<g clip-path="url(#kSVGID_11_)">
+							<defs>
+								<rect id="kSVGID_12_" x="1.333" y="9.333" width="17.333" height="17.333"/>
+							</defs>
+							<clipPath id="kSVGID_13_">
+								<use xlink:href="#kSVGID_12_" overflow="visible"/>
+							</clipPath>
+							<g clip-path="url(#kSVGID_13_)">
+								<defs>
+									<rect id="kSVGID_14_" x="1.38" y="9.942" width="17.235" height="16.392"/>
+								</defs>
+								<clipPath id="kSVGID_15_">
+									<use xlink:href="#kSVGID_14_" overflow="visible"/>
+								</clipPath>
+								<g clip-path="url(#kSVGID_15_)">
+									<defs>
+										<rect id="kSVGID_16_" x="2.667" y="10.667" width="14.667" height="14.667"/>
+									</defs>
+									<clipPath id="kSVGID_17_">
+										<use xlink:href="#kSVGID_16_" overflow="visible"/>
+									</clipPath>
+									<polygon clip-path="url(#kSVGID_17_)" fill="#FFFFFF" points="10,11.563 5.625,25.025 17.078,16.703 2.922,16.703 
+										14.375,25.021 									"/>
+								</g>
+								<g clip-path="url(#kSVGID_15_)">
+									<defs>
+										<rect id="kSVGID_18_" x="1.333" y="9.333" width="17.333" height="17.333"/>
+									</defs>
+									<clipPath id="kSVGID_19_">
+										<use xlink:href="#kSVGID_18_" overflow="visible"/>
+									</clipPath>
+									<polygon clip-path="url(#kSVGID_19_)" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" points="
+										10,11.563 5.625,25.025 17.078,16.703 2.922,16.703 14.375,25.021 									"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g clip-path="url(#kSVGID_6_)">
+				<defs>
+					<rect id="kSVGID_20_" x="2.667" y="9.333" width="14.667" height="16.001"/>
+				</defs>
+				<clipPath id="kSVGID_21_">
+					<use xlink:href="#kSVGID_20_" overflow="visible"/>
+				</clipPath>
+				<polygon clip-path="url(#kSVGID_21_)" fill="#C51A1A" points="10,10.552 5.625,24.016 17.078,15.693 2.922,15.693 14.375,24.01 
+									"/>
+			</g>
+			<g clip-path="url(#kSVGID_6_)">
+				<defs>
+					<rect id="kSVGID_22_" x="1.333" y="8" width="17.333" height="17.334"/>
+				</defs>
+				<clipPath id="kSVGID_23_">
+					<use xlink:href="#kSVGID_22_" overflow="visible"/>
+				</clipPath>
+				<polygon clip-path="url(#kSVGID_23_)" fill="none" stroke="#C51A1A" stroke-width="0.75" stroke-miterlimit="10" points="
+					10,10.552 5.625,24.016 17.078,15.693 2.922,15.693 14.375,24.01 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg><svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="star-large-low" x="20" width="20" height="40" viewBox="0 0 20 40" enable-background="new 0 0 20 40" xml:space="preserve" sodipodi:docname="star-large-medium.svg" inkscape:version="0.92.1 r15371" xmlns="http://www.w3.org/2000/svg"><metadata id="lmetadata4598"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><defs id="ldefs4596"><defs id="ldefs4492"><rect height="40" width="20" id="lSVGID_3_"/></defs><clipPath id="lSVGID_4_"><use id="luse4494" overflow="visible" xlink:href="#lSVGID_3_"/></clipPath></defs><sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1406" id="lnamedview4594" showgrid="false" inkscape:zoom="20.912683" inkscape:cx="9.8564433" inkscape:cy="19.026616" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:current-layer="g4587"/><g id="lg4591"><defs id="ldefs4486"><rect id="lSVGID_1_" width="20" height="40"/></defs><clipPath id="lSVGID_2_"><use xlink:href="#lSVGID_1_" overflow="visible" id="luse4488"/></clipPath><g id="lg4587" clip-path="url(#lSVGID_4_)"><defs id="ldefs4498"><rect y="0" x="0" height="40" width="20" id="lSVGID_5_"/></defs><clipPath id="lSVGID_6_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="luse4500" overflow="visible" xlink:href="#lSVGID_5_"/></clipPath><g id="lg4565" clip-path="url(#lSVGID_6_)"><defs id="ldefs4504"><rect y="0" x="0" height="40" width="20" id="lSVGID_7_"/></defs><clipPath id="lSVGID_8_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="luse4506" overflow="visible" xlink:href="#lSVGID_7_"/></clipPath><defs id="ldefs4512"><filter height="17.333" width="17.333" y="9.3330002" x="1.3329999" filterUnits="userSpaceOnUse" id="lAdobe_OpacityMaskFilter"><feColorMatrix id="lfeColorMatrix4509" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" type="matrix"/></filter></defs><mask id="lSVGID_9_" height="17.333" width="17.333" y="9.333" x="1.333" maskUnits="userSpaceOnUse"><g style="filter:url(#lAdobe_OpacityMaskFilter)" id="lg4516"><rect style="opacity:0.5;fill:#010202" id="lrect4514" height="17.333" width="17.333" clip-path="url(#lSVGID_8_)" y="9.3330002" x="1.3329999"/></g></mask><g id="lg4563" enable-background="new    " mask="url(#lSVGID_9_)" clip-path="url(#lSVGID_8_)"><g id="lg4561"><defs id="ldefs4520"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="lSVGID_10_"/></defs><clipPath id="lSVGID_11_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="luse4522" overflow="visible" xlink:href="#lSVGID_10_"/></clipPath><g id="lg4559" clip-path="url(#lSVGID_11_)"><defs id="ldefs4526"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="lSVGID_12_"/></defs><clipPath id="lSVGID_13_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="luse4528" overflow="visible" xlink:href="#lSVGID_12_"/></clipPath><g id="lg4557" clip-path="url(#lSVGID_13_)"><defs id="ldefs4532"><rect height="16.392" width="17.235001" y="9.9420004" x="1.38" id="lSVGID_14_"/></defs><clipPath id="lSVGID_15_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="luse4534" overflow="visible" xlink:href="#lSVGID_14_"/></clipPath><g id="lg4545" clip-path="url(#lSVGID_15_)"><defs id="ldefs4538"><rect height="14.667" width="14.667" y="10.667" x="2.6670001" id="lSVGID_16_"/></defs><clipPath id="lSVGID_17_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="luse4540" overflow="visible" xlink:href="#lSVGID_16_"/></clipPath><polygon style="fill:#ffffff" id="lpolygon4543" points="17.078,16.703 2.922,16.703 14.375,25.021 10,11.563 5.625,25.025 " clip-path="url(#lSVGID_17_)"/></g><g id="lg4555" clip-path="url(#lSVGID_15_)"><defs id="ldefs4548"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="lSVGID_18_"/></defs><clipPath id="lSVGID_19_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="luse4550" overflow="visible" xlink:href="#lSVGID_18_"/></clipPath><polygon style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:10" id="lpolygon4553" points="17.078,16.703 2.922,16.703 14.375,25.021 10,11.563 5.625,25.025 " stroke-miterlimit="10" clip-path="url(#lSVGID_19_)"/></g></g></g></g></g></g><g id="lg4575" clip-path="url(#lSVGID_6_)"><defs id="ldefs4568"><rect height="16.000999" width="14.667" y="9.3330002" x="2.6670001" id="lSVGID_20_"/></defs><clipPath id="lSVGID_21_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="luse4570" overflow="visible" xlink:href="#lSVGID_20_"/></clipPath><polygon style="fill:#33669a;fill-opacity:1" id="lpolygon4573" points="17.078,15.693 2.922,15.693 14.375,24.01 10,10.552 5.625,24.016 " clip-path="url(#lSVGID_21_)"/></g><g id="lg4585" clip-path="url(#lSVGID_6_)"><defs id="ldefs4578"><rect height="17.334" width="17.333" y="8" x="1.3329999" id="lSVGID_22_"/></defs><clipPath id="lSVGID_23_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="luse4580" overflow="visible" xlink:href="#lSVGID_22_"/></clipPath><polygon style="fill:none;stroke:#33669a;stroke-width:0.75;stroke-miterlimit:10;stroke-opacity:1" id="lpolygon4583" points="17.078,15.693 2.922,15.693 14.375,24.01 10,10.552 5.625,24.016 " stroke-miterlimit="10" clip-path="url(#lSVGID_23_)"/></g></g></g></svg><svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="star-large-medium" x="40" width="20" height="40" viewBox="0 0 20 40" enable-background="new 0 0 20 40" xml:space="preserve" sodipodi:docname="star-large-low.svg" inkscape:version="0.92.1 r15371" xmlns="http://www.w3.org/2000/svg"><metadata id="mmetadata4598"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><defs id="mdefs4596"><defs id="mdefs4492"><rect height="40" width="20" id="mSVGID_3_"/></defs><clipPath id="mSVGID_4_"><use id="muse4494" overflow="visible" xlink:href="#mSVGID_3_"/></clipPath></defs><sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1406" id="mnamedview4594" showgrid="false" inkscape:zoom="20.912683" inkscape:cx="9.8564433" inkscape:cy="19.026616" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:current-layer="g4587"/><g id="mg4591"><defs id="mdefs4486"><rect id="mSVGID_1_" width="20" height="40"/></defs><clipPath id="mSVGID_2_"><use xlink:href="#mSVGID_1_" overflow="visible" id="muse4488"/></clipPath><g id="mg4587" clip-path="url(#mSVGID_4_)"><defs id="mdefs4498"><rect y="0" x="0" height="40" width="20" id="mSVGID_5_"/></defs><clipPath id="mSVGID_6_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="muse4500" overflow="visible" xlink:href="#mSVGID_5_"/></clipPath><g id="mg4565" clip-path="url(#mSVGID_6_)"><defs id="mdefs4504"><rect y="0" x="0" height="40" width="20" id="mSVGID_7_"/></defs><clipPath id="mSVGID_8_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="muse4506" overflow="visible" xlink:href="#mSVGID_7_"/></clipPath><defs id="mdefs4512"><filter height="17.333" width="17.333" y="9.3330002" x="1.3329999" filterUnits="userSpaceOnUse" id="mAdobe_OpacityMaskFilter"><feColorMatrix id="mfeColorMatrix4509" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" type="matrix"/></filter></defs><mask id="mSVGID_9_" height="17.333" width="17.333" y="9.333" x="1.333" maskUnits="userSpaceOnUse"><g style="filter:url(#mAdobe_OpacityMaskFilter)" id="mg4516"><rect style="opacity:0.5;fill:#010202" id="mrect4514" height="17.333" width="17.333" clip-path="url(#mSVGID_8_)" y="9.3330002" x="1.3329999"/></g></mask><g id="mg4563" enable-background="new    " mask="url(#mSVGID_9_)" clip-path="url(#mSVGID_8_)"><g id="mg4561"><defs id="mdefs4520"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="mSVGID_10_"/></defs><clipPath id="mSVGID_11_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="muse4522" overflow="visible" xlink:href="#mSVGID_10_"/></clipPath><g id="mg4559" clip-path="url(#mSVGID_11_)"><defs id="mdefs4526"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="mSVGID_12_"/></defs><clipPath id="mSVGID_13_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="muse4528" overflow="visible" xlink:href="#mSVGID_12_"/></clipPath><g id="mg4557" clip-path="url(#mSVGID_13_)"><defs id="mdefs4532"><rect height="16.392" width="17.235001" y="9.9420004" x="1.38" id="mSVGID_14_"/></defs><clipPath id="mSVGID_15_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="muse4534" overflow="visible" xlink:href="#mSVGID_14_"/></clipPath><g id="mg4545" clip-path="url(#mSVGID_15_)"><defs id="mdefs4538"><rect height="14.667" width="14.667" y="10.667" x="2.6670001" id="mSVGID_16_"/></defs><clipPath id="mSVGID_17_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="muse4540" overflow="visible" xlink:href="#mSVGID_16_"/></clipPath><polygon style="fill:#ffffff" id="mpolygon4543" points="17.078,16.703 2.922,16.703 14.375,25.021 10,11.563 5.625,25.025 " clip-path="url(#mSVGID_17_)"/></g><g id="mg4555" clip-path="url(#mSVGID_15_)"><defs id="mdefs4548"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="mSVGID_18_"/></defs><clipPath id="mSVGID_19_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="muse4550" overflow="visible" xlink:href="#mSVGID_18_"/></clipPath><polygon style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:10" id="mpolygon4553" points="17.078,16.703 2.922,16.703 14.375,25.021 10,11.563 5.625,25.025 " stroke-miterlimit="10" clip-path="url(#mSVGID_19_)"/></g></g></g></g></g></g><g id="mg4575" clip-path="url(#mSVGID_6_)"><defs id="mdefs4568"><rect height="16.000999" width="14.667" y="9.3330002" x="2.6670001" id="mSVGID_20_"/></defs><clipPath id="mSVGID_21_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="muse4570" overflow="visible" xlink:href="#mSVGID_20_"/></clipPath><polygon style="fill:#ffcc04;fill-opacity:1" id="mpolygon4573" points="17.078,15.693 2.922,15.693 14.375,24.01 10,10.552 5.625,24.016 " clip-path="url(#mSVGID_21_)"/></g><g id="mg4585" clip-path="url(#mSVGID_6_)"><defs id="mdefs4578"><rect height="17.334" width="17.333" y="8" x="1.3329999" id="mSVGID_22_"/></defs><clipPath id="mSVGID_23_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="muse4580" overflow="visible" xlink:href="#mSVGID_22_"/></clipPath><polygon style="fill:none;stroke:#ffcc04;stroke-width:0.75;stroke-miterlimit:10;stroke-opacity:1" id="mpolygon4583" points="17.078,15.693 2.922,15.693 14.375,24.01 10,10.552 5.625,24.016 " stroke-miterlimit="10" clip-path="url(#mSVGID_23_)"/></g></g></g></svg><svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="star-large-none" x="60" width="20" height="40" viewBox="0 0 20 40" enable-background="new 0 0 20 40" xml:space="preserve" sodipodi:docname="star-large.svg" inkscape:version="0.92.1 r15371" xmlns="http://www.w3.org/2000/svg"><metadata id="nmetadata4598"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><defs id="ndefs4596"><defs id="ndefs4492"><rect height="40" width="20" id="nSVGID_3_"/></defs><clipPath id="nSVGID_4_"><use id="nuse4494" overflow="visible" xlink:href="#nSVGID_3_"/></clipPath></defs><sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1406" id="nnamedview4594" showgrid="false" inkscape:zoom="20.912683" inkscape:cx="9.8564433" inkscape:cy="19.026616" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:current-layer="g4587"/><g id="ng4591"><defs id="ndefs4486"><rect id="nSVGID_1_" width="20" height="40"/></defs><clipPath id="nSVGID_2_"><use xlink:href="#nSVGID_1_" overflow="visible" id="nuse4488"/></clipPath><g id="ng4587" clip-path="url(#nSVGID_4_)"><defs id="ndefs4498"><rect y="0" x="0" height="40" width="20" id="nSVGID_5_"/></defs><clipPath id="nSVGID_6_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="nuse4500" overflow="visible" xlink:href="#nSVGID_5_"/></clipPath><g id="ng4565" clip-path="url(#nSVGID_6_)"><defs id="ndefs4504"><rect y="0" x="0" height="40" width="20" id="nSVGID_7_"/></defs><clipPath id="nSVGID_8_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="nuse4506" overflow="visible" xlink:href="#nSVGID_7_"/></clipPath><defs id="ndefs4512"><filter height="17.333" width="17.333" y="9.3330002" x="1.3329999" filterUnits="userSpaceOnUse" id="nAdobe_OpacityMaskFilter"><feColorMatrix id="nfeColorMatrix4509" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" type="matrix"/></filter></defs><mask id="nSVGID_9_" height="17.333" width="17.333" y="9.333" x="1.333" maskUnits="userSpaceOnUse"><g style="filter:url(#nAdobe_OpacityMaskFilter)" id="ng4516"><rect style="opacity:0.5;fill:#010202" id="nrect4514" height="17.333" width="17.333" clip-path="url(#nSVGID_8_)" y="9.3330002" x="1.3329999"/></g></mask><g id="ng4563" enable-background="new    " mask="url(#nSVGID_9_)" clip-path="url(#nSVGID_8_)"><g id="ng4561"><defs id="ndefs4520"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="nSVGID_10_"/></defs><clipPath id="nSVGID_11_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="nuse4522" overflow="visible" xlink:href="#nSVGID_10_"/></clipPath><g id="ng4559" clip-path="url(#nSVGID_11_)"><defs id="ndefs4526"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="nSVGID_12_"/></defs><clipPath id="nSVGID_13_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="nuse4528" overflow="visible" xlink:href="#nSVGID_12_"/></clipPath><g id="ng4557" clip-path="url(#nSVGID_13_)"><defs id="ndefs4532"><rect height="16.392" width="17.235001" y="9.9420004" x="1.38" id="nSVGID_14_"/></defs><clipPath id="nSVGID_15_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="nuse4534" overflow="visible" xlink:href="#nSVGID_14_"/></clipPath><g id="ng4545" clip-path="url(#nSVGID_15_)"><defs id="ndefs4538"><rect height="14.667" width="14.667" y="10.667" x="2.6670001" id="nSVGID_16_"/></defs><clipPath id="nSVGID_17_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="nuse4540" overflow="visible" xlink:href="#nSVGID_16_"/></clipPath><polygon style="fill:#ffffff" id="npolygon4543" points="17.078,16.703 2.922,16.703 14.375,25.021 10,11.563 5.625,25.025 " clip-path="url(#nSVGID_17_)"/></g><g id="ng4555" clip-path="url(#nSVGID_15_)"><defs id="ndefs4548"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="nSVGID_18_"/></defs><clipPath id="nSVGID_19_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="nuse4550" overflow="visible" xlink:href="#nSVGID_18_"/></clipPath><polygon style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:10" id="npolygon4553" points="17.078,16.703 2.922,16.703 14.375,25.021 10,11.563 5.625,25.025 " stroke-miterlimit="10" clip-path="url(#nSVGID_19_)"/></g></g></g></g></g></g><g id="ng4575" clip-path="url(#nSVGID_6_)"><defs id="ndefs4568"><rect height="16.000999" width="14.667" y="9.3330002" x="2.6670001" id="nSVGID_20_"/></defs><clipPath id="nSVGID_21_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="nuse4570" overflow="visible" xlink:href="#nSVGID_20_"/></clipPath><polygon style="fill:#b0b0b0;fill-opacity:1" id="npolygon4573" points="17.078,15.693 2.922,15.693 14.375,24.01 10,10.552 5.625,24.016 " clip-path="url(#nSVGID_21_)"/></g><g id="ng4585" clip-path="url(#nSVGID_6_)"><defs id="ndefs4578"><rect height="17.334" width="17.333" y="8" x="1.3329999" id="nSVGID_22_"/></defs><clipPath id="nSVGID_23_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="nuse4580" overflow="visible" xlink:href="#nSVGID_22_"/></clipPath><polygon style="fill:none;stroke:#b0b0b0;stroke-width:0.75;stroke-miterlimit:10;stroke-opacity:1" id="npolygon4583" points="17.078,15.693 2.922,15.693 14.375,24.01 10,10.552 5.625,24.016 " stroke-miterlimit="10" clip-path="url(#nSVGID_23_)"/></g></g></g></svg><svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="star-large-none~hover" y="40" width="20" height="40" viewBox="0 0 20 40" enable-background="new 0 0 20 40" xml:space="preserve" sodipodi:docname="star-large~hover.svg" inkscape:version="0.92.1 r15371" xmlns="http://www.w3.org/2000/svg"><metadata id="ometadata4598"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><defs id="odefs4596"><defs id="odefs4492"><rect height="40" width="20" id="oSVGID_3_"/></defs><clipPath id="oSVGID_4_"><use id="ouse4494" overflow="visible" xlink:href="#oSVGID_3_"/></clipPath></defs><sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1406" id="onamedview4594" showgrid="false" inkscape:zoom="20.912683" inkscape:cx="9.8564433" inkscape:cy="19.026616" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:current-layer="g4587"/><g id="og4591"><defs id="odefs4486"><rect id="oSVGID_1_" width="20" height="40"/></defs><clipPath id="oSVGID_2_"><use xlink:href="#oSVGID_1_" overflow="visible" id="ouse4488"/></clipPath><g id="og4587" clip-path="url(#oSVGID_4_)"><defs id="odefs4498"><rect y="0" x="0" height="40" width="20" id="oSVGID_5_"/></defs><clipPath id="oSVGID_6_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="ouse4500" overflow="visible" xlink:href="#oSVGID_5_"/></clipPath><g id="og4565" clip-path="url(#oSVGID_6_)"><defs id="odefs4504"><rect y="0" x="0" height="40" width="20" id="oSVGID_7_"/></defs><clipPath id="oSVGID_8_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="ouse4506" overflow="visible" xlink:href="#oSVGID_7_"/></clipPath><defs id="odefs4512"><filter height="17.333" width="17.333" y="9.3330002" x="1.3329999" filterUnits="userSpaceOnUse" id="oAdobe_OpacityMaskFilter"><feColorMatrix id="ofeColorMatrix4509" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" type="matrix"/></filter></defs><mask id="oSVGID_9_" height="17.333" width="17.333" y="9.333" x="1.333" maskUnits="userSpaceOnUse"><g style="filter:url(#oAdobe_OpacityMaskFilter)" id="og4516"><rect style="opacity:0.5;fill:#010202" id="orect4514" height="17.333" width="17.333" clip-path="url(#oSVGID_8_)" y="9.3330002" x="1.3329999"/></g></mask><g id="og4563" enable-background="new    " mask="url(#oSVGID_9_)" clip-path="url(#oSVGID_8_)"><g id="og4561"><defs id="odefs4520"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="oSVGID_10_"/></defs><clipPath id="oSVGID_11_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="ouse4522" overflow="visible" xlink:href="#oSVGID_10_"/></clipPath><g id="og4559" clip-path="url(#oSVGID_11_)"><defs id="odefs4526"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="oSVGID_12_"/></defs><clipPath id="oSVGID_13_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="ouse4528" overflow="visible" xlink:href="#oSVGID_12_"/></clipPath><g id="og4557" clip-path="url(#oSVGID_13_)"><defs id="odefs4532"><rect height="16.392" width="17.235001" y="9.9420004" x="1.38" id="oSVGID_14_"/></defs><clipPath id="oSVGID_15_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="ouse4534" overflow="visible" xlink:href="#oSVGID_14_"/></clipPath><g id="og4545" clip-path="url(#oSVGID_15_)"><defs id="odefs4538"><rect height="14.667" width="14.667" y="10.667" x="2.6670001" id="oSVGID_16_"/></defs><clipPath id="oSVGID_17_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="ouse4540" overflow="visible" xlink:href="#oSVGID_16_"/></clipPath><polygon style="fill:#ffffff" id="opolygon4543" points="17.078,16.703 2.922,16.703 14.375,25.021 10,11.563 5.625,25.025 " clip-path="url(#oSVGID_17_)"/></g><g id="og4555" clip-path="url(#oSVGID_15_)"><defs id="odefs4548"><rect height="17.333" width="17.333" y="9.3330002" x="1.3329999" id="oSVGID_18_"/></defs><clipPath id="oSVGID_19_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="ouse4550" overflow="visible" xlink:href="#oSVGID_18_"/></clipPath><polygon style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:10" id="opolygon4553" points="17.078,16.703 2.922,16.703 14.375,25.021 10,11.563 5.625,25.025 " stroke-miterlimit="10" clip-path="url(#oSVGID_19_)"/></g></g></g></g></g></g><g id="og4575" clip-path="url(#oSVGID_6_)"><defs id="odefs4568"><rect height="16.000999" width="14.667" y="9.3330002" x="2.6670001" id="oSVGID_20_"/></defs><clipPath id="oSVGID_21_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="ouse4570" overflow="visible" xlink:href="#oSVGID_20_"/></clipPath><polygon style="fill:#737272;fill-opacity:1" id="opolygon4573" points="17.078,15.693 2.922,15.693 14.375,24.01 10,10.552 5.625,24.016 " clip-path="url(#oSVGID_21_)"/></g><g id="og4585" clip-path="url(#oSVGID_6_)"><defs id="odefs4578"><rect height="17.334" width="17.333" y="8" x="1.3329999" id="oSVGID_22_"/></defs><clipPath id="oSVGID_23_"><use height="100%" width="100%" y="0" x="0" style="overflow:visible" id="ouse4580" overflow="visible" xlink:href="#oSVGID_22_"/></clipPath><polygon style="fill:none;stroke:#737272;stroke-width:0.75;stroke-miterlimit:10;stroke-opacity:1" id="opolygon4583" points="17.078,15.693 2.922,15.693 14.375,24.01 10,10.552 5.625,24.016 " stroke-miterlimit="10" clip-path="url(#oSVGID_23_)"/></g></g></g></svg><svg version="1.1" id="task" y="80" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<rect x="3.633" y="5.957" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.633" y="9.999" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.65" y="14.04" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.642" y="5.145" fill="#B0B0B0" stroke="#B0B0B0" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.642" y="9.187" fill="#B0B0B0" stroke="#B0B0B0" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.659" y="13.229" fill="#B0B0B0" stroke="#B0B0B0" stroke-miterlimit="10" width="12.701" height="1.625"/>
+</svg><svg version="1.1" id="task-active" x="20" y="80" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<rect x="3.633" y="5.956" fill="#878787" stroke="#878787" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.633" y="9.998" fill="#878787" stroke="#878787" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.65" y="14.04" fill="#878787" stroke="#878787" stroke-miterlimit="10" width="12.701" height="1.625"/>
+<rect x="3.642" y="5.145" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.642" y="9.187" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="12.7" height="1.625"/>
+<rect x="3.659" y="13.229" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="12.701" height="1.625"/>
+</svg><svg version="1.1" id="trash" x="80" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<g>
+	<defs>
+		<rect id="rSVGID_1_" width="20" height="20"/>
+	</defs>
+	<clipPath id="rSVGID_2_">
+		<use xlink:href="#rSVGID_1_" overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#rSVGID_2_)">
+		<defs>
+			<rect id="rSVGID_3_" width="20" height="20"/>
+		</defs>
+		<clipPath id="rSVGID_4_">
+			<use xlink:href="#rSVGID_3_" overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#rSVGID_4_)">
+			<defs>
+				<rect id="rSVGID_5_" width="20" height="20"/>
+			</defs>
+			<clipPath id="rSVGID_6_">
+				<use xlink:href="#rSVGID_5_" overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#rSVGID_6_)">
+				<defs>
+					<rect id="rSVGID_7_" x="4" y="5.333" width="12" height="13.333"/>
+				</defs>
+				<clipPath id="rSVGID_8_">
+					<use xlink:href="#rSVGID_7_" overflow="visible"/>
+				</clipPath>
+				<polyline clip-path="url(#rSVGID_8_)" fill="none" stroke="#747272" stroke-width="1.125" stroke-miterlimit="10" points="
+					5.016,5.604 5.766,17.422 14.234,17.422 14.984,5.604 				"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#rSVGID_2_)">
+		<defs>
+			<rect id="rSVGID_9_" x="2.667" y="4" width="14.667" height="2.667"/>
+		</defs>
+		<clipPath id="rSVGID_10_">
+			<use xlink:href="#rSVGID_9_" overflow="visible"/>
+		</clipPath>
+		<rect x="3.521" y="4.03" clip-path="url(#rSVGID_10_)" fill="#747272" width="12.955" height="1.938"/>
+	</g>
+	<g clip-path="url(#rSVGID_2_)">
+		<defs>
+			<rect id="rSVGID_11_" x="8" y="1.333" width="4" height="4"/>
+		</defs>
+		<clipPath id="rSVGID_12_">
+			<use xlink:href="#rSVGID_11_" overflow="visible"/>
+		</clipPath>
+		<rect x="8.188" y="2.579" clip-path="url(#rSVGID_12_)" fill="#747272" width="3.627" height="1.64"/>
+	</g>
+	<g clip-path="url(#rSVGID_2_)">
+		<defs>
+			<rect id="rSVGID_13_" x="6.667" y="6.667" width="2.667" height="9.333"/>
+		</defs>
+		<clipPath id="rSVGID_14_">
+			<use xlink:href="#rSVGID_13_" overflow="visible"/>
+		</clipPath>
+		
+			<line clip-path="url(#rSVGID_14_)" fill="none" stroke="#747272" stroke-width="0.75" stroke-miterlimit="10" x1="8.063" y1="6.995" x2="8.313" y2="15.197"/>
+	</g>
+	<g clip-path="url(#rSVGID_2_)">
+		<defs>
+			<rect id="rSVGID_15_" x="10.666" y="6.667" width="2.667" height="9.333"/>
+		</defs>
+		<clipPath id="rSVGID_16_">
+			<use xlink:href="#rSVGID_15_" overflow="visible"/>
+		</clipPath>
+		
+			<line clip-path="url(#rSVGID_16_)" fill="none" stroke="#747272" stroke-width="0.75" stroke-miterlimit="10" x1="11.938" y1="6.995" x2="11.688" y2="15.197"/>
+	</g>
+</g>
+</svg><svg version="1.1" id="update" x="60" y="60" width="20" height="20" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<path fill="none" stroke="#B0B0B0" stroke-width="2.5" stroke-miterlimit="10" d="M15.619,14.347
+	c-1.673,2.224-4.579,3.341-7.441,2.602c-3.79-0.98-6.066-4.846-5.085-8.636c0.979-3.789,4.845-6.066,8.634-5.086
+	c1.855,0.479,3.349,1.651,4.274,3.168"/>
+<polygon fill="#B0B0B0" stroke="#B0B0B0" stroke-miterlimit="10" points="17.434,3.447 12.623,6.281 17.482,9.028 "/>
+</svg></svg>

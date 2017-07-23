@@ -1,0 +1,178 @@
+.icon_svg {
+	background: url("svg/sprite.css.svg") no-repeat;
+}
+
+.svg-alphabetically {
+	background-position: 25% 50%;
+}
+
+.svg-alphabetically-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-checkbox {
+	background-position: 50% 75%;
+}
+
+.svg-checkbox-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-divider {
+	background-position: 61.69072164948454% 81.63265306122449%;
+}
+
+.svg-divider-dims {
+	width: 3px;
+	height: 2px;
+}
+
+.svg-eye-hidden {
+	background-position: 100% 25%;
+}
+
+.svg-eye-hidden-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-eye-visible {
+	background-position: 100% 50%;
+}
+
+.svg-eye-visible-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-manual {
+	background-position: 100% 75%;
+}
+
+.svg-manual-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-plus {
+	background-position: 50% 50%;
+}
+
+.svg-plus-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-sort-default {
+	background-position: 75% 50%;
+}
+
+.svg-sort-default-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-star {
+	background-position: 25% 75%;
+}
+
+.svg-star-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-star-active {
+	background-position: 49.9001996007984% 99.8003992015968%;
+}
+
+.svg-star-active-dims {
+	width: 19.84px;
+	height: 19.84px;
+}
+
+.svg-star-large-high {
+	background-position: 0 0;
+}
+
+.svg-star-large-high-dims {
+	width: 20px;
+	height: 40px;
+}
+
+.svg-star-large-low {
+	background-position: 25% 0;
+}
+
+.svg-star-large-low-dims {
+	width: 20px;
+	height: 40px;
+}
+
+.svg-star-large-medium {
+	background-position: 50% 0;
+}
+
+.svg-star-large-medium-dims {
+	width: 20px;
+	height: 40px;
+}
+
+.svg-star-large-none,
+.svg-star-large-none\:regular {
+	background-position: 75% 0;
+}
+
+.svg-star-large-none-dims {
+	width: 20px;
+	height: 40px;
+}
+
+.svg-star-large-none:hover,
+.svg-star-large-none\:hover {
+	background-position: 0 66.66666666666667%;
+}
+
+.svg-star-large-none-dims:hover,
+.svg-star-large-none\:hover-dims {
+	width: 20px;
+	height: 40px;
+}
+
+.svg-task {
+	background-position: 0 100%;
+}
+
+.svg-task-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-task-active {
+	background-position: 25% 100%;
+}
+
+.svg-task-active-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-trash {
+	background-position: 100% 0;
+}
+
+.svg-trash-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-update {
+	background-position: 75% 75%;
+}
+
+.svg-update-dims {
+	width: 20px;
+	height: 20px;
+}
+
